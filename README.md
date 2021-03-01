@@ -1,2 +1,2 @@
 # practiceMakesPerfect
-My Algo and DS exercise. 
+My Algo and DS exercises. 
